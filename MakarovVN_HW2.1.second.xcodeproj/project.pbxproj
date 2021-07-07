@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F910907B26960A5D000D62CB /* MakarovVN_HW2.1.trafficLights.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MakarovVN_HW2.1.trafficLights.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F910907B26960A5D000D62CB /* MakarovVN_HW2.1.second.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MakarovVN_HW2.1.second.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F910907E26960A5D000D62CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F910908026960A5D000D62CB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F910908226960A5D000D62CB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		F910907C26960A5D000D62CB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F910907B26960A5D000D62CB /* MakarovVN_HW2.1.trafficLights.app */,
+				F910907B26960A5D000D62CB /* MakarovVN_HW2.1.second.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F910907A26960A5D000D62CB /* MakarovVN_HW2.1.trafficLights */ = {
+		F910907A26960A5D000D62CB /* MakarovVN_HW2.1.second */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F910908F26960A5F000D62CB /* Build configuration list for PBXNativeTarget "MakarovVN_HW2.1.trafficLights" */;
+			buildConfigurationList = F910908F26960A5F000D62CB /* Build configuration list for PBXNativeTarget "MakarovVN_HW2.1.second" */;
 			buildPhases = (
 				F910907726960A5D000D62CB /* Sources */,
 				F910907826960A5D000D62CB /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = MakarovVN_HW2.1.trafficLights;
+			name = MakarovVN_HW2.1.second;
 			productName = MakarovVN_HW2.1.trafficLights;
-			productReference = F910907B26960A5D000D62CB /* MakarovVN_HW2.1.trafficLights.app */;
+			productReference = F910907B26960A5D000D62CB /* MakarovVN_HW2.1.second.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F910907626960A5D000D62CB /* Build configuration list for PBXProject "MakarovVN_HW2.1.trafficLights" */;
+			buildConfigurationList = F910907626960A5D000D62CB /* Build configuration list for PBXProject "MakarovVN_HW2.1.second" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F910907A26960A5D000D62CB /* MakarovVN_HW2.1.trafficLights */,
+				F910907A26960A5D000D62CB /* MakarovVN_HW2.1.second */,
 			);
 		};
 /* End PBXProject section */
@@ -322,7 +322,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F910907626960A5D000D62CB /* Build configuration list for PBXProject "MakarovVN_HW2.1.trafficLights" */ = {
+		F910907626960A5D000D62CB /* Build configuration list for PBXProject "MakarovVN_HW2.1.second" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F910908D26960A5F000D62CB /* Debug */,
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F910908F26960A5F000D62CB /* Build configuration list for PBXNativeTarget "MakarovVN_HW2.1.trafficLights" */ = {
+		F910908F26960A5F000D62CB /* Build configuration list for PBXNativeTarget "MakarovVN_HW2.1.second" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F910909026960A5F000D62CB /* Debug */,
